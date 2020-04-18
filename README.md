@@ -1,6 +1,8 @@
 # Learning in the Frequency Domain
 
-This is the source code for the CVPR'20 paper entitled "Learning in the Frequency Domain" (https://arxiv.org/abs/2002.12416). 
+This is the source code for the CVPR'20 paper entitled "Learning in the Frequency Domain" (https://arxiv.org/abs/2002.12416).
+
+This repo is a clone of https://github.com/calmevtime/DCTNet.
 
 ## Highlights
 * We propose a method of learning in the frequency domain (using DCT coefficients as input), which requires little modification to the existing CNN models that take RGB input. We validate our method on ResNet50 and MobileNetV2 for the image classification task and Mask R-CNN for the instance segmentation task.
