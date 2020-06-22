@@ -1,4 +1,7 @@
+# Notice: This repository is deprecated, please use https://github.com/calmevtime/DCTNet.
+
 # Learning in the Frequency Domain
+
 
 This is the source code for the CVPR'20 paper entitled "Learning in the Frequency Domain" (https://arxiv.org/abs/2002.12416).
 
