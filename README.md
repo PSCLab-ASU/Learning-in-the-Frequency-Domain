@@ -13,5 +13,3 @@ This is the source code for the CVPR'20 paper entitled "Learning in the Frequenc
 * To the best of our knowledge, this is the first work that explores learning in the frequency domain for object detection and instance segmentation. Experiment results on Mask R-CNN show that learning in the frequency domain can achieve a 0.8% average precision improvement for the instance segmentation task on the COCO dataset.
 
 Please refer to the [image classfication](classification) and [instance segmentation](segmentation) sections for more details.
-
-Note: This a cloned repo of https://github.com/calmevtime/DCTNet.
